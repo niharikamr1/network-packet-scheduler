@@ -112,13 +112,14 @@ network_packet_scheduler/
 ## Screenshots
 
 ### Main Interface
-![alt text](image.png)
+![Main Interface](screenshots/image.png)
+
 
 ### Packet Segmentation and Queue
-![alt text](image-1.png)
+![Packet Queue](screenshots/image-1.png)
 
 ### Transmission Visualization and Metrics
-![alt text](image-2.png)
+![Metrics](screenshots/image-2.png)
 
 ---
 
